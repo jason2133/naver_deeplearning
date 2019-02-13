@@ -2,7 +2,7 @@
 
 * 네이버 edwith에서 최성준 교수님의 딥러닝 강의를 듣고 공부한 것들
 
-* [링크](https://www.edwith.org/deeplearningchoi/joinLectures/10979)
+* [강좌 링크](https://www.edwith.org/deeplearningchoi/joinLectures/10979)
 
 ## 강의 목록
 
